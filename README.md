@@ -2,6 +2,7 @@
 
 requiremwnt with pip install
 1.opencv-python
+
 2.numpy
 
 ขั้นตอนการดำเนินงาน
